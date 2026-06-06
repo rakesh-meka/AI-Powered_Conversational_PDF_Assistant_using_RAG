@@ -3,7 +3,14 @@ import os
 import tempfile
 import sys
 
-st.write("Python Version:", sys.version)
+st.write("Python:", sys.version)
+
+try:
+    import langchain
+    st.success(f"LangChain imported: {langchain.__version__}")
+except Exception as e:
+    st.error(str(e))
+
 st.stop()
 
 from dotenv import load_dotenv

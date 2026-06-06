@@ -6,6 +6,8 @@ AskYourPDF is a Retrieval-Augmented Generation (RAG) application that enables us
 
 Built using Streamlit, LangChain, FAISS, Hugging Face Embeddings, and Groq-powered Llama models, this project demonstrates a complete end-to-end RAG workflow.
 
+## LIVE PROJECT LINK : https://askyourpdfragchatbot.streamlit.app/
+
 ---
 
 ## 🚀 Key Features

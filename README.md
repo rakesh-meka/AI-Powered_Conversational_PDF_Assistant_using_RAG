@@ -61,21 +61,6 @@ Context-Aware Response
 
 ---
 
-## 📂 Project Structure
-
-```text
-AskYourPDF/
-│
-├── main.py
-├── requirements.txt
-├── .env
-├── README.md
-├── temp_uploads/
-└── vectors/
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
